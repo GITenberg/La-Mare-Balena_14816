@@ -1,0 +1,33 @@
+_repo: La-Mare-Balena_14816
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Català, Víctor
+    aliases:
+    - Catala, Victor
+    - Paradis, Catalina Albert y
+    - Albert i Paradís, Caterina
+    - Paradís, Catalina Albert y
+    birthdate: 1869
+    deathdate: 1966
+    gutenberg_agent_id: '5701'
+    url: http://www.gutenberg.org/2009/agents/5701
+description: ''
+gutenberg_issued: '2005-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14816'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PC'
+tableOfContents: La Mare-Balena -- Temptació -- Enaiguament -- Croquis -- Novel-leta
+  -- Substitució -- En Pelifet.
+title: La Mare-Balena
+url: http://www.gutenberg.org/ebooks/14816
